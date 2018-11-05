@@ -1,0 +1,133 @@
+commit af3f0db7fa98c5505465d7481e16bdede1d8dffb
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 11:06:10 2018 +0200
+
+    poistettu file1, muutettu file2 > file22
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 5f41034c6b795786a0062274fbbaaf4b0a944d95
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:57:44 2018 +0200
+
+    luotu tiedostoja/ ja tiedostot file1-3
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit dc73464e569523c2801266676821876284b8a14e
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:53:14 2018 +0200
+
+    muokattu eka ja kolmas
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 811451f187f0023baf0804c543b1d342b2dc8056
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:49:46 2018 +0200
+
+    muutoksia
+
+ eka.txt    | 7 ++++---
+ toinen.txt | 1 +
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+
+commit 8fc22503be1e79669e71f652c8e8b7d8235561e0
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:48:38 2018 +0200
+
+    luotu kolmas.txt
+
+ kolmas.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 56dda93d3a8498f5c639a4d5eea142cb38826882
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:45:26 2018 +0200
+
+    muutettu tiedosto.txt >> eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 51215988ec0f1a5ac8ab78642a1165fe8187815b
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:44:17 2018 +0200
+
+    poistettu toinen.txt
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit f2240d04d8802f8b65c3a74676602e055a106b6e
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:42:06 2018 +0200
+
+    poistettu ja lisätty tekstiä tiedosto.txt
+
+ tiedosto.txt | 32 ++++++++++++++++++++++++++++----
+ 1 file changed, 28 insertions(+), 4 deletions(-)
+
+commit 9f26880f89caca4dac0779ac92b41a5aa5140026
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:40:46 2018 +0200
+
+    lisätty tekstiä tiedosto.txt
+
+ tiedosto.txt | 340 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 340 insertions(+)
+
+commit 3f83d1a39c61116f8857e241bc052d19a6723bd6
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:34:26 2018 +0200
+
+    luotu stuff/ ja jokin_tiedosto.txt
+
+ stuff/jokin_tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c1d45da86437c38ce8067cc43ea05420ad16fb16
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:33:01 2018 +0200
+
+    lisätty tekstiä toinen.txt ja kolmas.txt tiedostoihin
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit d039a20c8218d17c65ae095055fa078ed96d2495
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:29:19 2018 +0200
+
+    luotu kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 777277a8881bf3f9581bb77b66b1c7fada9349dc
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:28:18 2018 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 8ddb26beff83d4a87c4f1ba64ad9e6cf381a12e1
+Author: Mikko <mikko.pajunen@helsinki.fi>
+Date:   Mon Nov 5 10:25:34 2018 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
