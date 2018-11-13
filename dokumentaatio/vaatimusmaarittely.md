@@ -3,7 +3,7 @@
 <h2>Sovelluksen tarkoitus</h2>
 
 Kyseessä on yksinpeli jossa pelaajan tavoitteena on tyhjentää neliön muotoisista ruuduista muodostuva mahdollisesti mielivaltaisen kokoinen pelilauta räjäyttämättä laudalle piilotettuja miinoja. Apuna käytetään
-ruutuihin klikkaamisen jälkeen ilmestyviä lukuja, jotka kertovat jokaisen ruudun vieressä olevien miinojen määrän,
+ruutuihin klikkaamisen jälkeen ilmestyviä lukuja, jotka kertovat yksittäisen ruudun vieressä olevien miinojen määrän,
 sekä mahdollisuutta merkata ruutuja joissa pelaaja epäilee olevan miina.
 
 <h2>Käyttäjät</h2>
